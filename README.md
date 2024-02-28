@@ -1,4 +1,4 @@
-# Project-2-Iratze-Twittter-
+# Project-2-Twittter-
 
 ### Authentication Endpoints 
 
